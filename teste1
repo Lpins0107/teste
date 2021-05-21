@@ -1,0 +1,6 @@
+x = int(input())
+y = int(input())
+soma = x + y
+mult = x * y
+print('soma = ', soma)
+print('multiplicacao =', mult)
